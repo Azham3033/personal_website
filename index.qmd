@@ -1,0 +1,62 @@
+---
+title: "Azham Hassan Venghat"
+description: Master of Business Analytics Student.
+page-layout: full
+image: azham.jpg
+about:
+  template: trestles
+  image-width: 10em
+  image-shape: round
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/Azham3033
+    - icon: linkedin
+      text: LinkedIn
+      href: www.linkedin.com/in/azhamhassanvenghat
+    - icon: envelope
+      text: Email
+      href: mailto:azhahassanv@gmail.com
+    - icon: person-lines-fill
+      text: Resume
+      href: https://github.com/Azham3033/CV
+---
+
+I am a first year Maste's student in Facutly of Economics at the [Monash University, Australia](https://www.monash.edu/business/ebs) supervised by Professor [Dianne Cook](http://www.dicook.org/), Dr. [Michael Lydeamore](https://research.monash.edu/en/persons/michael-lydeamore), Dr. [Thiyanga S. Talagala](https://thiyanga.netlify.app/), and Dr. [Paul Harrison](https://research.monash.edu/en/persons/paul-harrison).
+
+::: columns
+::: {.column width="40%"}
+## Interests
+
+-   Data Visualization
+
+-   Data Exploration
+
+-   Data Cleaning
+
+-   Data Engineering
+:::
+
+::: {.column width="60%"}
+## Education
+
+##### {{< fa graduation-cap >}} Masters in Business Analytics, Present
+
+###### Monash University, Australia {style="color: gray"}
+
+##### {{< fa graduation-cap >}} Bachelor in Computer Science Engineering, 2015-2019.
+
+###### Christ University, Bangalore, India {style="color: gray"}
+
+
+###### Certifications.
+
+###### Hacker Rank SQL Intermediate Certificate.
+
+##### {{< fa graduation-cap >}} Microsoft Certified: Power BI Data Analyst Associate , 2024.
+
+:::
+:::
+
+On this website you will find some of my work and interests in feild of Data.
+
